@@ -21,7 +21,7 @@ func main() {
 </pre>
 
 # Why
-This package is inspired by [sindresorhus](https://www.npmjs.com/package/video-extensions) npm module for Binary extension.
+This package is inspired by [sindresorhus](https://www.npmjs.com/package/video-extensions) npm module for Video extension.
 
 # License
 MIT © [Shamsher Ansari](https://github.com/shamsher31)
