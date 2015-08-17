@@ -1,13 +1,13 @@
 # govdoext
 List of Video file extensions for Go
 
-# How to install
-<pre>
+### How to install
+```go
 go get github.com/shamsher31/govdoext
-</pre>
+```
 
-# How to use
-<pre>
+### How to use
+```go
 package main
 
 import (
@@ -18,10 +18,10 @@ import (
 func main() {
 	fmt.Println(vdoext.Get())
 }
-</pre>
+```
 
-# Why
-This package is inspired by [video-extensions](https://www.npmjs.com/package/video-extensions) npm module for Video extension.
+### Why
+This package is inspired by [video-extensions](https://www.npmjs.com/package/video-extensions) npm module.
 
-# License
+### License
 MIT © [Shamsher Ansari](https://github.com/shamsher31)
