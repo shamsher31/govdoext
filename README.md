@@ -1,4 +1,7 @@
 # govdoext
+
+[![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/govdoext)
+
 List of Video file extensions for Go
 
 ### How to install
